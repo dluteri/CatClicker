@@ -16,10 +16,10 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 70%;
 }
 
-.cat-counter {
+.cat-counter, .cat-counter2  {
     color: #fff;
     font-weight: bold;
     font-family: 'Indie Flower', cursive;
@@ -43,4 +43,18 @@ img {
 
 .pets {
     text-align: center;
+}
+
+#wrap {
+    justify-content: center;
+}
+
+.container-1 {
+    width: 50%;
+    float: left;
+}
+
+.container-2 {
+    width: 50%;
+    float: right;
 }
