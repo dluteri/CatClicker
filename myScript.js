@@ -40,6 +40,24 @@ let model = {
       name: 'Cat 2',
       imgSrc : 'kitten-2.jpg'
       //imgAttribution  : 'www.pixelbay.com'
+    },
+    {
+      clickCount : 0,
+      name: 'Cat 3',
+      imgSrc : 'kitten-3.jpg'
+      //imgAttribution  : 'www.pixelbay.com'
+    },
+    {
+      clickCount : 0,
+      name: 'Cat 4',
+      imgSrc : 'kitten-4.jpg'
+      //imgAttribution  : 'www.pixelbay.com'
+    },
+    {
+      clickCount : 0,
+      name: 'Arya',
+      imgSrc : 'arya.jpg'
+      //imgAttribution  : 'Donna Luteri (She is one of my "Yutes")'
     }
   ]
 }
